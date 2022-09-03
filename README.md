@@ -26,6 +26,10 @@
 
 ---
 
+## Try Out Shoes-webTemplate Demo
+
+<a href="https://dsdmark.github.io/Shoes-webTemplate/" alt="Shoes-webTemplate Demo">Shoes-webTemplate Demo</a>
+
 </div>
 
 ### Shoes-webTemplate
