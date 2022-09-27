@@ -1,5 +1,12 @@
 <div align="center">
 
+![GitHub tag (latest by date)](https://img.shields.io/github/v/tag/DSDmark/Shoes-webTemplate)
+![GitHub](https://img.shields.io/github/license/DSDmark/Shoes-webTemplate)
+![GitHub language count](https://img.shields.io/github/languages/count/DSDmark/Shoes-webTemplate)
+![GitHub last commit](https://img.shields.io/github/last-commit/DSDmark/Shoes-webTemplate)
+[![Deploy static content to Pages](https://github.com/DSDmark/Shoes-webTemplate/actions/workflows/static.yml/badge.svg)](https://github.com/DSDmark/Shoes-webTemplate/actions/workflows/static.yml)
+
+
 # HTML WEB TEMPLATES
 
 <div>
