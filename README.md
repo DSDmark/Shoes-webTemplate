@@ -4,7 +4,7 @@
 ![GitHub](https://img.shields.io/github/license/DSDmark/Shoes-webTemplate)
 ![GitHub language count](https://img.shields.io/github/languages/count/DSDmark/Shoes-webTemplate)
 ![GitHub last commit](https://img.shields.io/github/last-commit/DSDmark/Shoes-webTemplate)
-[![Deploy static content to Pages](https://github.com/DSDmark/Shoes-webTemplate/actions/workflows/static.yml/badge.svg)](https://github.com/DSDmark/Shoes-webTemplate/actions/workflows/static.yml)
+[![Deploy Jekyll with GitHub Pages dependencies preinstalled](https://github.com/DSDmark/Shoes-webTemplate/actions/workflows/jekyll-gh-pages.yml/badge.svg)](https://github.com/DSDmark/Shoes-webTemplate/actions/workflows/jekyll-gh-pages.yml)
 
 
 # HTML WEB TEMPLATES
