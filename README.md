@@ -33,6 +33,12 @@
 
 ---
 
+### Clone the repository
+1. Clone the repo using git cli. ```git clone https://github.com/DSDmark/Shoes-webTemplate.git```
+2. Go to the folder ***Web-Info*** ```cd Web-Info```
+
+---
+
 ## Try Out Shoes-webTemplate Demo
 
 <a href="https://dsdmark.github.io/Shoes-webTemplate/" alt="Shoes-webTemplate Demo">Shoes-webTemplate Demo</a>
